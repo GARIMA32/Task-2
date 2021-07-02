@@ -112,7 +112,6 @@ CREATE TABLE `student` (
 INSERT INTO `student` (`id`, `stud_name`, `stud_email`, `stud_phone`, `gender`, `course`, `country`, `state`, `city`, `stud_image`) VALUES
 (1, 'Garima', 'garimach9297@gmail.com', '8708220470', 'Female', 'dance,singing', '', '', '', 'dummy-female.png'),
 (4, 'vikas', 'vikas@gmail.com', '9911339566', 'Male', 'dance', '1', '1', '1', '252-2524695_dummy-profile-image-jpg-hd-png-download.png'),
-(5, 'pagal', 'pagal@gmail.com', '1234567890', 'Male', 'dance', '1', '2', '4', '252-2524695_dummy-profile-image-jpg-hd-png-download.png'),
 (6, 'pppp', 'pppp@gmail.com', '1234567890', 'Male', '', '1', '2', '4', '252-2524695_dummy-profile-image-jpg-hd-png-download.png'),
 (8, 'aaaa', 'aaa@gmail.com', '1234567890', 'Male', 'dance,on', '1', '1', '2', '252-2524695_dummy-profile-image-jpg-hd-png-download.png'),
 (9, 'garima', 'chauhangarima525@gmail.com', '8708220470', 'Female', 'dance,singing', '1', '2', '4', 'course-3.jpg');
